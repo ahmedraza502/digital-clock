@@ -1,0 +1,34 @@
+body{
+    background-image: url(digital-composite-of-3d-alarm-clock-exploding-against-blue-background-with-vignette-ai-generative-image-free-photo.jpg);
+    /* background-attachment: fixed; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+
+    background-color: rgb(57, 178, 219);
+    font-family: monospace;
+
+}
+#clock{
+    /* background-color: rgb(192, 192, 220);
+    width: 500px;
+    height: 500px;
+    /* align-items: center; */
+    justify-content: center; */
+}
+#clock-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* width: 100vh; */
+    /* border: 2px solid black; */
+    height: 100vh;
+    font-size: 40px;
+    color:rgb(255, 255, 255);
+    backdrop-filter: blur(10px);
+    background-color: rgba(0, 0%, 100, 0.1);
+    width: 100;
+    
+
+}
